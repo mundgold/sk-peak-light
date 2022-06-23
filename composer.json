@@ -1,0 +1,9 @@
+{
+    "name": "mundgold/sk-peak-light",
+    "extra": {
+        "statamic": {
+            "name": "Sk Peak Light",
+            "description": "Sk Peak Light starter kit"
+        }
+    }
+}
